@@ -1,39 +1,39 @@
-# Project Name
+# AirFecBnB : Booking Module
 
-> Project description
+> Web Application for Booking Accommodations 
 
-## Related Projects
+## Demo
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
 
-## Table of Contents
+👉 Watch [Demo Video](https://www.youtube.com/watch?v=ZaMoZ0U07QY)
 
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+[![👉 Watch the video](https://media.giphy.com/media/2scmhVtxeTbb5dnej1/giphy.gif)](https://www.youtube.com/watch?v=ZaMoZ0U07QY)
 
 ## Usage
 
-> Some usage instructions
 
-## Requirements
+- Built stateful React components with CSS modules to deliver modular UI with separation of concerns
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
+- Converted booking module as a bottom bar when zooming out web page and showed up as a modal with CSS
 
-- Node 6.13.0
-- etc
+- Integrated 4 microservices via Express proxy server deployed with RDS and AWS Elastic Beanstalk 
 
-## Development
+- Managed team Agile Workflow through Trello ticketing system to ensure non-conflicting goals
 
-### Installing Dependencies
 
-From within the root directory:
+## Built With
 
-```sh
-npm install -g webpack
-npm install
-```
+React 
+
+Node.js 
+
+MySQL
+
+CSS Module
+
+Bootstrap
+
+AWS (RDS, EBS)
+
+
 
